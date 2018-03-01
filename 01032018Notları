@@ -1,0 +1,8 @@
+BorderThickness //Tablonun Kalınlığı için
+Loaded = Yükleme
+Binding = Metod Bağlama
+RenderTransformOrigin= Borderın yerini ayarlamak için
+Frame = Farklı butonlara basınca farklı sahneler göstermesi
+MVVM => Model-View-ViewModel    MODEL = BAGLANTI VE TANIMLAR / ViewModel = Metod Ları oluştur / View = Metodlara işlev ver.
+ViewModel özelligi Tablodaki sadece bir tane satırı güncelleme özelligi verir
+
